@@ -20,6 +20,23 @@
                     "url": "https://github.com/pema99/GITweaks/releases/download/0.1.0/GITweaks-0.1.0.zip"
                 }
             }
+        },
+        "dev.pema.slang-shader-plugin": {
+            "versions": {
+                "0.1.0": {
+                    "name": "dev.pema.slang-shader-plugin",
+                    "displayName": "Slang Shader Plugin",
+                    "version": "0.1.0",
+                    "unity": "2022.3",
+                    "description": "A plugin for creating shaders using the Slang shading language.",
+                    "author": {
+                        "name": "Pema Malling",
+                        "email": "pemamalling@gmail.com"
+                    },
+                    "hideInEditor": false,
+                    "url": "https://github.com/pema99/SlangUnityPlugin/releases/download/0.1.0/SlangUnityPlugin-0.1.0.zip"
+                }
+            }
         }
     }
 }
